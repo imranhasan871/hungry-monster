@@ -55,13 +55,13 @@
 
 ![hungry-monster](https://user-images.githubusercontent.com/33188928/180201552-325a2ff6-efa1-4602-81fc-9d5271d50e30.png)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+There are many ways to describe a project. This is one of them. It's a project that I've been working on for a while. This is a Food Searching App. I've been working on this for a while and I'm very happy with the result. I hope you enjoy it. I hope you find it useful. I use API to search for food.
 
 Here's why:
 
--   Your time should be focused on creating something amazing. A project that solves a problem and helps others
--   You shouldn't be doing the same tasks over and over like creating a README from scratch
--   You should implement DRY principles to the rest of your life :smile:
+-   I'm a developer and I love to code. I love to create things. I love to make things. I love to make things that people can use.:smile:
+
+-
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
@@ -137,6 +137,8 @@ Project Link: [https://github.com/imranhasan871/hungry-monster](https://github.c
 ## Acknowledgments
 
 Acknowledgements are what make the open source community such an amazing place to learn, inspire, and create.
+I used the following resources to create this project. Here are a few examples. (You can also use the `README.md` file as a template.) You may also link to more resources.
+(https://www.themealdb.com/api.php)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
